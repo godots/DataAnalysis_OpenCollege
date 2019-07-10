@@ -44,7 +44,16 @@ keywords: word cloud, visuallization, infographics
 이용 패키지: matplotlib, wordcloud 등  
 
 우리가 만들고 싶은 것? (아래 결과들은 단시간에 그릴수는 없지만, 노력하면 다 그릴 수 있어요!)  
-[![Visualization1](./images/pic4.png)]
+  
+<img src="https://github.com/kimyoungjin06/DataAnalysis_OpenCollege/blob/master/images/2_3_RPSlikeCirculation_1.png" width="400" />
+<img src="https://github.com/kimyoungjin06/DataAnalysis_OpenCollege/blob/master/images/3_1_Kmeans_clustering.png" width="400" />
+<img src="https://github.com/kimyoungjin06/DataAnalysis_OpenCollege/blob/master/images/3_1_event_count.png" width="400" />
+<img src="https://github.com/kimyoungjin06/DataAnalysis_OpenCollege/blob/master/images/3_4_Openness_user.png" width="400" />
+<img src="https://github.com/kimyoungjin06/DataAnalysis_OpenCollege/blob/master/images/3_5_BM_active_user_tot.png" width="400" />
+<img src="https://github.com/kimyoungjin06/DataAnalysis_OpenCollege/blob/master/images/S3_5_example.png" width="400" />
+<img src="https://github.com/kimyoungjin06/DataAnalysis_OpenCollege/blob/master/images/pic2.png" width="400" />
+<img src="https://github.com/kimyoungjin06/DataAnalysis_OpenCollege/blob/master/images/pic5.png" width="400" />
+  
 관련 링크:
 https://matplotlib.org/
 https://www.shutterstock.com/ko/search/infographic?kw=infographic%20infographic&gclid=Cj0KCQjw9pDpBRCkARIsAOzRziuO5zX6fsdIgp3dIXb95Vqh6gHdnXdett218wp-vaz7LxDgQyFRF2kaAu-DEALw_wcB&gclsrc=aw.ds
