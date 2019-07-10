@@ -56,5 +56,6 @@ keywords: word cloud, visuallization, infographics
 <img src="https://github.com/kimyoungjin06/DataAnalysis_OpenCollege/blob/master/images/pic5.png" width="400" />
 </p>  
 관련 링크:  
+https://github.com/kimyoungjin06/wordcloud
 https://matplotlib.org/  
 https://www.shutterstock.com/ko/search/infographic?kw=infographic%20infographic&gclid=Cj0KCQjw9pDpBRCkARIsAOzRziuO5zX6fsdIgp3dIXb95Vqh6gHdnXdett218wp-vaz7LxDgQyFRF2kaAu-DEALw_wcB&gclsrc=aw.ds  
